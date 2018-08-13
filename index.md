@@ -1,5 +1,3 @@
-## Club Obsidian Open Source
-
 This is the home of Club Obsidian's open source projects. Over the nearly 5 years of being in the Minecraft community Club Obsidian has developed a number of in-house projects. Over time some of those projects will be released on our [Github.](https://github.com/ClubObsidian)
 
 You can view some of our current projects below.
