@@ -1,6 +1,6 @@
 ## Club Obsidian Open Source
 
-<script src="https://cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+<div class="github-card" data-github="clubobsidian" data-width="400" data-height="" data-theme="default"></div><script src="https://cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 This is the home of Club Obsidian's open source projects. Over the nearly 5 years of being in the Minecraft community Club Obsidian has developed a number of in-house projects. Over time some of those projects will be released on our [Github.](https://github.com/ClubObsidian)
 
