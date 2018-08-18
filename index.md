@@ -4,9 +4,9 @@ title: Club Obsidian Open Source
 
 ## Introduction
 
-This is the home of Club Obsidian's open source projects. Over the nearly 5 years of being in the Minecraft community Club Obsidian has developed a number of in-house projects. Over time some of the developed projects will be released on our [Github.](https://github.com/ClubObsidian)
+This is the home of Club Obsidian's open source projects. Over the nearly 5 years of being in the Minecraft community Club Obsidian has developed a number of in-house projects. Over time some of the in-house developed projects will be released on our [Github](https://github.com/ClubObsidian) to give back to the communiy. If you see something on the server that you find interesting it may become open sourced in the future so stay tuned!
 
-You can view some of our current projects below.
+You can checkout some of our current open source projects below.
 
 ## Current Projects
 
@@ -17,12 +17,12 @@ Trident is an event executor or event bus. Trident allows different implementati
 [Github](https://github.com/ClubObsidian/trident)
 [Javadocs](https://jitpack.io/com/github/clubobsidian/Trident/master-SNAPSHOT/javadoc/)
 
-### Hydra
-
-_Coming soon!_
-
 ### DynamicGUI
 
 _Coming soon!_
 
 [For now you can check out the builder for DynamicGUI!](https://clubobsidian.github.io/DynamicGUICreator/)
+
+### Hydra
+
+_Coming soon!_
