@@ -24,3 +24,5 @@ _Coming soon!_
 ### DynamicGUI
 
 _Coming soon!_
+
+[For now you can check out the builder for DynamicGUI!](https://clubobsidian.github.io/DynamicGUICreator/)
