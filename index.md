@@ -25,4 +25,8 @@ _Coming soon!_
 
 ### Hydra
 
-_Coming soon!_
+A distributed event driven microcontainer application server. Backed by kubernetes. 
+
+_Currently in development_
+
+[Github](https://github.com/ClubObsidian/hydra)
