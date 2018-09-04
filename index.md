@@ -17,11 +17,13 @@ Trident is an event executor or event bus. Trident allows different implementati
 [Github](https://github.com/ClubObsidian/trident)
 [Javadocs](https://jitpack.io/com/github/clubobsidian/Trident/master-SNAPSHOT/javadoc/)
 
-### DynamicGUI
+### DynamicGui
 
-_Coming soon!_
+A plugin that makes creation of minecraft menus or guis easier. Currently supports Bukkit based servers with Sponge in progress and Nukkit to be supported at a later date.
 
-[For now you can check out the builder for DynamicGUI!](https://clubobsidian.github.io/DynamicGUICreator/)
+[Github](https://github.com/ClubObsidian/DynamicGui)
+[Docs](https://dynamicguidocs.readthedocs.io/en/latest/)
+[Builder](https://clubobsidian.github.io/DynamicGUICreator/)
 
 ### Hydra
 
