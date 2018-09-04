@@ -23,7 +23,7 @@ A plugin that makes creation of minecraft menus or guis easier. Currently suppor
 
 [Github](https://github.com/ClubObsidian/DynamicGui)
 [Docs](https://dynamicguidocs.readthedocs.io/en/latest/)
-[Builder](https://clubobsidian.github.io/DynamicGUICreator/)
+[Builder](https://clubobsidian.github.io/DynamicGuiCreator/)
 
 ### Hydra
 
